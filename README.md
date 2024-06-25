@@ -99,5 +99,3 @@ Le projet suit une architecture typique de Spring Boot avec les composants suiva
 - Dassoah Maixent OKOUMOU
 
 ## License
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
