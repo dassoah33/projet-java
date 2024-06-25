@@ -98,4 +98,4 @@ Le projet suit une architecture typique de Spring Boot avec les composants suiva
 - Nidele MANKEU
 - Dassoah Maixent OKOUMOU
 
-## License
+
