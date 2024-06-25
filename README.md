@@ -36,8 +36,6 @@ Le projet suit une architecture typique de Spring Boot avec les composants suiva
 - **AeronefDTO.java** : Classe DTO pour transporter les informations des aéronefs.
 
 
-    ```
-
 ## Auteurs
 
 - Najath Hikmath LAWANI
